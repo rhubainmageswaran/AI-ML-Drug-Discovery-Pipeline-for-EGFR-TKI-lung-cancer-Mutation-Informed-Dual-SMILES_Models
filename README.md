@@ -268,7 +268,7 @@ t=0: FULL_SMILES         → full EGFR kinase domain sequence
 t=1: ATP_POCKET          → residues 718–862 (ATP-binding pocket)
 t=2: P_LOOP_HINGE        → residues 719–724 (P-loop/hinge region)
 t=3: C_HELIX             → residues 752–760 (αC-helix)
-t=4: DFG_A_LOOP          → residues 857–859 (DFG/A-loop, L858R structural context)
+t=4: DFG_A_LOOP          → residues 857–859 (DFG/A-loop)
 t=5: HRD_CAT             → residues 831–839 (HRD catalytic motif)
 ```
 
