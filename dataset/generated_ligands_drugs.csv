@@ -1,7 +1,0 @@
-smiles
-C=CC(=O)NC1=CC2=C(OC)C=C(Nc3nccc(-c4cn(C)c5ccccc45)n3)CCOCCN12
-C=CC(=O)NC1=CC2=C(OC)C=C(Nc3nccc(-c4cn(C)c5ccccc45)n3)CCNCCN12
-C=CC(=O)Nc1cc(N(C)CCN(C)C)c(OC)cc1Nc1nccc(-c2cn(C)c3ccccc23)n1
-C=CC(=O)Nc1cc(NCCN(C)C)c(OC)cc1Nc1nccc(-c2cn(C)c3ccccc23)n1
-C=CC(=O)Nc1cc(Nc2nccc(-c3ccc4c(c3)c3ccccc3n4C)n2)c(OC)cc1N(C)CCN(C)C
-C=C(CC)C(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
