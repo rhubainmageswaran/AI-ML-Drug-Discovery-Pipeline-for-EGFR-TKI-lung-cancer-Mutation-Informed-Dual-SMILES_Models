@@ -92,7 +92,7 @@ os.makedirs("docked_poses", exist_ok=True)
 
 # Read ligands from file 
 ligands = []
-with open('ligand7.txt') as f:
+with open('ligand7b.txt') as f:
     lines = [line.strip() for line in f if line.strip()]
     if lines and lines[0].lower().startswith(('id,', 'ligand', 'name')):
         lines = lines[1:]
